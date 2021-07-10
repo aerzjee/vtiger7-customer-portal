@@ -65,6 +65,7 @@ class Portal_Config_Data {
 		//availableLanguages is the array containing all the label and value pair of all supported languages.
 		self::$data['languages'] = array(
 										array('label' => 'US English', 'value' => 'en_us'),
+										array('label' => 'Polski', 'value' => 'pl_pl'),
 										array('label' => 'DE Deutsch', 'value' => 'de_de'),
 										array('label' => 'PT Brasil', 'value' => 'pt_br'),
 										array('label' => 'Francais', 'value' => 'fr_fr'),
