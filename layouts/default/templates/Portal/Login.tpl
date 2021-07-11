@@ -35,6 +35,7 @@
                                 <label for="language" translate="Language" class="col-sm-4 control-label">Language</label>
                                 <div class="col-sm-4">
                                     <select name="language" ng-model="language" ng-change="setLanguage(language)"  class="select form-control" placeholder="Language">
+                                        <option value="pl_pl">Polski</option>
                                         <option value="en_us">US English</option>
                                         <option value="de_de">DE Deutsch</option>
                                         <option value="pt_br">PT Brasil</option>
