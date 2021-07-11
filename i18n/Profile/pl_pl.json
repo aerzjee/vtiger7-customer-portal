@@ -1,5 +1,7 @@
 {
   "Name":"Nazwa",
+  "First Name":"Imię",
+  "Last Name":"Nazwisko",
   "Primary Email":"Główny adres e-mail",
   "Secondary Email":"Zapasowy adres e-mail",
   "Mobile Phone":"Telefon komórkowy",
