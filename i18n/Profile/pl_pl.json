@@ -1,0 +1,15 @@
+{
+  "Name":"Nazwa",
+  "Primary Email":"Główny adres e-mail",
+  "Secondary Email":"Zapasowy adres e-mail",
+  "Mobile Phone":"Telefon komórkowy",
+  "Office Phone":"Telefon służbowy",
+  "_start for CompanyInfo":"keys",
+  "Website":"Strona internetowa",
+  "Email":"Główny adres e-mail",
+  "Phone":"Główny numer telefonu",
+  "Personal Details":"Informacje osobiste",
+  "Company Details":"Informacje o firmie",
+  "Primary Phone":"Główny numer telefonu",
+  "Primary Email":"Główny adres e-mail"
+}
